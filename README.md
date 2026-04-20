@@ -1,32 +1,46 @@
-# Hi there 👋 I'm Jun Yuan
+# Hi, I'm Jun Yuan 👋
 
-💻 Computer Science Graduate | Software Development Enthusiast  
+Software Developer | Full Stack Engineer
 
-I enjoy building practical systems and solving real-world problems through code.
-
----
-
-## 🛠 Technologies & Tools
-- Programming: Java, Python, C++  
-- Web: HTML, JavaScript  
-- Database: MySQL  
-- Tools: Cisco Packet Tracer  
+I build practical web systems with clean architecture and real-world use cases.
 
 ---
 
-## 🚀 Experience
-- Developed EV Charging Simulation system (energy, time, cost calculation)  
-- Built automation tools to improve internal planning during internship  
+## 🧠 Tech Stack
+
+### Languages
+Java · Python · JavaScript · TypeScript · SQL
+
+### Frontend
+React · Next.js · HTML · CSS · Tailwind CSS
+
+### Backend
+Node.js · Express.js · REST API
+
+### Databases
+MySQL · MongoDB · Firebase · SQLite · Oracle
+
+### Tools & Cloud
+Git · Postman · Azure · VS Code
 
 ---
 
-## 📌 Projects
-- ⚡ EV Charging Simulation System  
-- 🛒 Point of Sale System  
-- 📚 Library Management System  
+## 🚀 Projects
+
+⚡ EV Charging System — simulation of cost, time, and energy usage  
+🛒 POS System — sales, inventory, and database management system  
+📚 Library System — CRUD operations with database integration  
 
 ---
 
+## 📫 Contact
+
+Email: junyuan1000@gmail.com  
+LinkedIn: jun-yuan-ng-23153b334  
+
+---
+
+⚡ Focused on building useful and scalable systems.
 ## 📫 Let's Connect
 - Email: junyuan1000@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/jun-yuan-ng-23153b334  
