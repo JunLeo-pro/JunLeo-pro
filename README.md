@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋 I'm Jun Yuan
 
-<!--
-**JunLeo-pro/JunLeo-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Graduate | Software Development Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy building practical systems and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technologies & Tools
+- Programming: Java, Python, C++  
+- Web: HTML, JavaScript  
+- Database: MySQL  
+- Tools: Cisco Packet Tracer  
+
+---
+
+## 🚀 Experience
+- Developed EV Charging Simulation system (energy, time, cost calculation)  
+- Built automation tools to improve internal planning during internship  
+
+---
+
+## 📌 Projects
+- ⚡ EV Charging Simulation System  
+- 🛒 Point of Sale System  
+- 📚 Library Management System  
+
+---
+
+## 📫 Let's Connect
+- Email: junyuan1000@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/jun-yuan-ng-23153b334  
+
+---
+
+🚀 Open to opportunities in software development
