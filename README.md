@@ -39,12 +39,3 @@ Email: junyuan1000@gmail.com
 LinkedIn: jun-yuan-ng-23153b334  
 
 ---
-
-⚡ Focused on building useful and scalable systems.
-## 📫 Let's Connect
-- Email: junyuan1000@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/jun-yuan-ng-23153b334  
-
----
-
-🚀 Open to opportunities in software development
