@@ -1,8 +1,6 @@
 # Hi, I'm Jun Yuan 👋
 
-Software Developer | Full Stack Engineer
-
-I build practical web systems with clean architecture and real-world use cases.
+UTAR Fresh Graduate
 
 ---
 
@@ -36,6 +34,6 @@ Git · Postman · Azure · VS Code
 ## 📫 Contact
 
 Email: junyuan1000@gmail.com  
-LinkedIn: jun-yuan-ng-23153b334  
+LinkedIn: www.linkedin.com/in/jun-yuan-ng1000
 
 ---
